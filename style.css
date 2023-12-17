@@ -1,0 +1,447 @@
+*{
+    margin: ;
+    border: border-box;
+}
+.bg{
+    height: 600px;
+    background-image: url("netflix\ background\ image.jpg");
+    background-size: cover;
+box-shadow: inset;
+}
+   
+.logo{
+    position: absolute;
+    margin-top: 40px;
+    background-image: black;
+    display: flex;
+    ;
+}
+#lang{
+    position: absolute;
+    margin-left: 1120px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10%;
+    width: 150px;
+}
+#lang:active{
+    border: 3px solid white;
+}
+
+#sign-in{
+
+height: 40px;
+margin-left: 1300px;
+width: 90px;
+background-color: red;
+border: 2px solid black;
+border-radius: 10%;
+color: white;
+font-weight: bold;
+}
+#sign-in:hover{
+    background-color: rgb(211, 10, 10);
+}
+
+.text1{
+    color: white;
+    font-size: 65px;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 200px;
+}
+.text2{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 450px;
+}
+.text3{
+    color: white;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 440px;
+    font-size: 25px;
+}
+#input{
+    /*background-color:transparent;*/
+    color: black;
+    text-align: left;
+    height: 45px;
+    width: 400px;
+    border: 2px solid green ;
+    position: absolute;
+    border-radius: 5%;
+    margin-top: 400px;
+    margin-left: 470px;
+
+}
+ .start1{
+    height: 50px;
+    width: 160px; 
+    background-color: red;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 7%;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 900px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+a:hover{
+    background-color: rgb(189, 13, 13);
+}
+.gap{
+    background-color:gray;
+    height: 5px;
+}
+.box2{
+    height: 600px;
+    background-color: black;
+    color: white;
+    
+}
+.text4{
+    height: 300px;
+width: 600px;
+color:white;
+font-size: 27px;
+position: absolute;
+margin-top: 150px;  margin-left:100px; 
+}
+
+.tet6{
+    color: white;
+}
+.video{
+    height: 250px;
+    width: 440px;
+    position: absolute;
+    margin-left: 77px;
+    margin-top: 90px;
+}
+.video-image{
+    height: 400px;
+    width: 600px;
+    position: absolute;
+    margin-top: 100px; margin-left: 750px;
+background-image: url("netflix\ video\ image.png");
+background-size: cover;
+
+}
+.netflixv1{
+    height:250px ;
+    width: 440px;
+}
+.gap2{
+    background-color: gray;
+    height: 5px;
+}
+.box3{
+    height: 600px;
+    background-color: black;
+    color: white;
+}
+.text7{
+    height: 400px;
+    width: 700px;
+    position: absolute;
+    margin-top: 100px; margin-left: 650px;
+}
+.image-video{
+    height: 400px;
+    width: 400px;
+    color:white;
+    position: absolute;
+    margin-top: 100px;  margin-left:150px; 
+    background-image: url("image2.jpg");
+background-size: cover;
+}
+.text8{
+    font-size: 60px;
+}
+.text9{
+    font-size: 40px;
+}
+.gap3{
+    background-color: gray;
+    height:5px;
+}
+.box4{
+    height: 600px;
+    background-color: black;
+    color: white;
+}
+.video-image2{
+    height: 400px;
+    width: 550px;
+    position: absolute;
+    margin-top: 100px; margin-left: 800px;
+    background-image: url("image4.png");
+    background-size: contain;
+}
+
+.text10{
+    height: 400px;
+    width: 600px;
+    color:white;
+    position: absolute;
+    margin-top: 100px;  margin-left:70px; 
+}
+.image-video2{
+    height: 100px;
+    width: 300px;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 10%;
+    position: absolute;
+    margin-top: 300px; margin-left: 100px;
+}
+.p{
+    position: absolute;
+    margin-left: 95px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.p1{
+    position: absolute;
+    margin-left: 95px;
+    margin-top: 50px;
+    color: blue;
+}
+.image-video3{
+    height: 100px;
+    width: 80px;
+ background-image: url("image-video3.png");
+background-size: cover;
+}
+
+.image-video4{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    margin-left: 100px;
+}
+.text11{
+    font-size: 60px;
+}
+.text12{
+    font-size: 30px;
+}
+.video-image3{
+    
+        height: 175px;
+        width: 325px;
+        position: absolute;
+        margin-left: 100px;
+        margin-top: 45px;
+}
+#video2{
+    height: 175px;
+    width: 325px;
+}
+.gap4{
+    background-color: gray;
+    height: 5px;
+}
+.gap4{
+    background-color: gray;
+    height: 5px;
+}
+.box5{
+    height: 600px;
+    background-color: black;
+    color: white;
+}
+.kids-text{
+    height: 400px;
+    width: 650px;
+    position: absolute;
+    margin-top: 150px; margin-left: 700px;
+    
+}
+.kids-image{
+    height: 400px;
+    width: 550px;
+    position: absolute;
+    margin-top: 100px; margin-left:100px;
+    background-image: url("image-kids.png");
+    background-size: cover;
+}
+.text13{
+    font-size: 60px;
+}
+.text14{
+    font-size: 30px;
+}
+.gap5{
+    background-color: gray;
+    height:5px;
+}
+.box6{
+    height: 1000px;
+    background-color: black;
+    color: white;
+}
+.text15{
+    font-size: 50px;
+    font-weight: bold;
+    background-color: black;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+.box6-1{
+    position: absolute;
+    height: 600px;
+    width: 1150px;
+    margin-top: 150px;
+    margin-left: 150px;
+    color: white;
+    font-size: 30px;
+}
+.q1{
+    color: white;
+    background-color: rgb(38, 37, 37);
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.q1:hover{
+    background-color: rgb(60, 60, 60);
+}
+.q2:hover{
+    background-color: rgb(60, 60, 60);
+}
+.q3:hover{
+    background-color: rgb(60, 60, 60);
+}
+.q4:hover{
+    background-color: rgb(60, 60, 60);
+}
+.q5:hover{
+    background-color: rgb(60, 60, 60);
+}
+.q6:hover{
+    background-color: rgb(60, 60, 60);
+}
+.q1gap{
+    height:10px;
+   
+}
+.q2{
+    background-color:  rgb(38, 37, 37);
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.q2gap{
+    height:10px;
+    
+}
+.q3gap{
+    height:10px;
+}
+.q3{
+    background-color: rgb(38, 37, 37);
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.q4{
+    background-color: rgb(38, 37, 37);
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.q5{
+    background-color: rgb(38, 37, 37);
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.q6{
+    background-color:rgb(38, 37, 37);
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text16{
+    font-size: 30px;
+    position:absolute ;
+    margin-top: 850px; margin-left: 400px;
+    
+}
+
+.box6-2{
+    display: flex;
+    position: absolute;
+    margin-top: 900px;
+}
+#inputend{
+    height: 50px;
+    width: 380px;
+    margin-left: 500px;
+    border: 2px solid green;
+    background-color: rgb(70, 66, 66);
+    color: white;
+}
+
+.buttonend{ 
+    height: 50px;
+    width: 160px; 
+    background-color: red;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 7%;
+    position: absolute;
+    color: white;
+      margin-left: 900px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gap6{
+    height: 5px;
+    background-color: gray;
+}
+footer{
+    height: 400px;
+    background-color: black;
+    color: gray;
+}
+.link1{
+    height: 50px;
+    width:1000px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 200px;
+   font-size: 25px;
+   color: gray;
+}
+.link1no{
+    color: gray;
+}
+.otherlinks{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 200px;
+    border: 2px solid red;
+}
